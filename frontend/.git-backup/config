@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Shophub"]
+	url = https://github.com/madmahadevmaha/shophub.git
+	fetch = +refs/heads/*:refs/remotes/Shophub/*

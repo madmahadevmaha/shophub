@@ -1,0 +1,44 @@
+# Django Core
+Django
+djangorestframework
+django-cors-headers
+
+# Database
+psycopg2-binary
+dj-database-url
+
+# Authentication & Security
+djangorestframework-simplejwt
+django-allauth
+dj-rest-auth
+
+# Environment Variables
+python-dotenv
+
+# Image Processing
+Pillow
+
+# API Documentation
+drf-yasg
+
+# Caching (Optional for Phase 3+)
+redis
+django-redis
+
+# Celery for Background Tasks
+celery
+
+# Payment Gateways
+razorpay
+stripe
+
+# Email
+django-anymail
+
+# Utilities
+python-decouple
+requests
+
+# Development
+django-debug-toolbar
+
